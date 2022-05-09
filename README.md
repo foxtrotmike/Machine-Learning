@@ -35,7 +35,6 @@ Applications by Laurene Fausett, (ch. 2,6)
 <p>[PML] Chapter-1, [IML] Chapter-1</p>
 <p><a href="https://youtu.be/4TB4Z8_T3d8"><span class="underline">CRISPR Talk</span></a></p>
 <p><a href="https://youtu.be/Of1u0i7roS0"><span class="underline">Whole Slide Images are Graphs Talk</span></a></p>
-<p><a href="https://warwick.ac.uk/fac/sci/dcs/teaching/material/cs907/suggestions/minhas_fayyaz"><span class="underline">Project Suggestions</span></a></p>
 <p>The master algorithm (casual reading)</p>
 <p><a href="https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf"><span class="underline">A few useful things to know about machine learning</span></a></p></th>
 <th><a href="https://warwick.ac.uk/fac/sci/dcs/teaching/material/cs909/#learningPython"><span class="underline">Learning Python</span></a></th>
