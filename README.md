@@ -1,18 +1,4 @@
-# Machine-Learning
-Machine Learning Module
-# \`Data Mining by Fayyaz Minhas
-
-## 
-
-## This document includes:
-
-  - > The link to the module video playlist
-
-  - > Books
-
-  - > Detailed Weekly breakdown of module contents
-
-  - > Self Assessment Revision Questions
+# Machine Learning Module by Fayyaz Minhas
 
 ## Video Playlist: [<span class="underline">https://www.youtube.com/playlist?list=PL9IcorxiyRbASB9DXjoWnBJO9RSKyzM2N</span>](https://www.youtube.com/playlist?list=PL9IcorxiyRbASB9DXjoWnBJO9RSKyzM2N) 
 
